@@ -1,4 +1,4 @@
-import stringtopostfix as stp
+import lexer+shuntingyard as stp
 
 hashm = {
     '+': 2,
