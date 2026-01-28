@@ -1,3 +1,4 @@
+use result.py to run the program
 Takes a mathematical function as a string input 
 lexer+shuntingyard:
       uses a lexer,tokenizer and the shuntingyard algorithm to convert the function into its reverse postfix notation
