@@ -1,4 +1,4 @@
-import differentiation as diff
+import differentiator as diff
 #node=diff.nodemaker(function)
 #ans=(diff.differentiate(node))
 def prune(ans):
