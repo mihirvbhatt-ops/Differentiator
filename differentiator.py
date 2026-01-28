@@ -1,4 +1,4 @@
-import postfixtotree as pft
+import rpn-to-tree as pft
 def nodemaker(function):
     node = pft.treemaker(function)
     return node
