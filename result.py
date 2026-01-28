@@ -1,5 +1,5 @@
-import result as rs
-import differentiation as diff
+import simplification as rs
+import differentiator as diff
 function=input("enter a function")
 node=diff.nodemaker(function)
 derivative=(diff.differentiate(node))
@@ -131,6 +131,7 @@ def role(c): #decides token type
         return "space"
 
 from collections import defaultdict
+
 
 def simplify_tokens(tokens):
     """
