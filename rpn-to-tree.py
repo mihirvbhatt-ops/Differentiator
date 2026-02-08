@@ -1,4 +1,4 @@
-import lexer+shuntingyard as stp
+import lexershuntingyard as stp
 
 hashm = {
     '+': 2,
