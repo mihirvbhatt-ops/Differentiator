@@ -1,4 +1,4 @@
-import rpn-to-tree as pft
+import rpntotree as pft
 def nodemaker(function):
     node = pft.treemaker(function)
     return node
